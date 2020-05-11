@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadDemo_V3</string>
+    <string name="intro">Test (Thread-Demo) !</string>
+    <string name="start">Start</string>
+    <string name="stop">Stopp</string>
+    <string name="empty">leer</string>
+</resources>

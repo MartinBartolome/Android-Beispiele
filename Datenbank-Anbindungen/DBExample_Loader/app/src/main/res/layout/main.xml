@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="ch.ffhs.dbexample_loader.Main">
+
+    <TextView
+        android:text="@string/intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_driver"
+        android:id="@+id/btn_add_driver"
+        android:onClick="addDriver"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/list_driver"
+        android:id="@+id/btn_list_driver"
+        android:onClick="showDrivers"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/list_team"
+        android:id="@+id/btn_list_Team"
+        android:onClick="showTeam"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/results"
+        android:id="@+id/btn_results"
+        android:onClick="showResults"/>
+
+</LinearLayout>

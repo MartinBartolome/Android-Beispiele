@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FileSystem</string>
+
+
+    <string name="intro">Hello World, WriteFile!</string>
+    <string name="write_flash">to Flash</string>
+    <string name="read_flash">from Flash</string>
+    <string name="write_sdcard">to SDCard</string>
+    <string name="read_sdcard">from SDCard</string>
+    <string name="textToWrite">Text eingeben:</string>
+    <string name="more">mehr</string>
+</resources>

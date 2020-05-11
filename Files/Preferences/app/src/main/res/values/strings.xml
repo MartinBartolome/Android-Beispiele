@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Preferences</string>
+
+    <string name="intro">Settings Demo</string>
+    <string name="leer">....</string>
+    <string name="user">Benutzer</string>
+    <string name="color">Farbe</string>
+    <string name="mood">Stimmung</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tx_voreinstellungen_benutzer">Benutzer</string>
+    <string name="tx_voreinstellungen_lieblingsfarbe">Lieblingsfarbe</string>
+    <string name="tx_voreinstellungen_stimmung">Stimmung</string>
+    <string name="tx_voreinstellungen_allgemein">Allgemein</string>
+    <string name="tx_voreinstellungen_persoenliches">Persoenlich</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

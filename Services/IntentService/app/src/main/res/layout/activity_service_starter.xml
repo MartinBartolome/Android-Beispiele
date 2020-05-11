@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".ServiceStarter">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/intro"
+        />
+    <TextView
+        android:id="@+id/Info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty"
+        />
+    <TextView
+        android:id="@+id/Time"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty"
+        />
+    <TextView
+        android:id="@+id/Counter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty"
+        />
+    <TextView
+        android:id="@+id/PID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty"
+        />
+    <TextView
+        android:id="@+id/TID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/empty"
+        />
+
+    <Button
+        android:id="@+id/start_stop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onStartStopClick"
+        android:text="@string/start" />
+</LinearLayout>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DBExample</string>
+    <string name="title_activity_main">Hauptmenu</string>
+
+    <string name="intro">Aktion aus wählen</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="list_driver">Fahrer</string>
+    <string name="list_team">Team</string>
+    <string name="add_driver">Neuen Fahrer hinzufügen</string>
+    <string name="results">Rangliste</string>
+    <string name="title_activity_show_all">ShowAll</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="menu_insert">Einfuegen</string>
+    <string name="menu_show_all">Alle anzeigen</string>
+    <string name="menu_show_list">Liste anzeigen</string>
+    <string name="name">Name</string>
+    <string name="team">Team</string>
+    <string name="punkte">Punkte</string>
+    <string name="siege">Siege</string>
+    <string name="insert">insert</string>
+    <string name="clear">clear</string>
+    <string name="empty">.....</string>
+    <string name="title_activity_show_team_ferrary">ShowTeamFerrary</string>
+    <string name="search">suchen</string>
+    <string name="title_activity_show_as_list">ShowAsList</string>
+    <string name="title_activity_insert_record">InsertRecord</string>
+</resources>

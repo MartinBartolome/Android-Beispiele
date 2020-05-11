@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeService_V2</string>
+
+    <string name="intro">ServiceStarter!</string>
+    <string name="empty">leer!</string>
+
+    <string name="start">Service starten</string>
+    <string name="stop">Service stoppen</string>
+    <string name="get_data">Daten lesen</string>
+</resources>

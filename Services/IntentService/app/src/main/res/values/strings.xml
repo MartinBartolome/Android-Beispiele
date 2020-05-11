@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentService</string>
+
+    <string name="intro">ServiceStarter!</string>
+    <string name="empty">leer!</string>
+    <string name="start">Service starten</string>
+    <string name="stop">Service stoppen</string>
+
+    <string name="disp_text_off">Service wird gestartet von PID/TID( %1$5d / %2$5d ) !</string>
+    <string name="disp_text_on">Service war gestartet von PID/TID( %1$5d / %2$5d ) !</string>
+</resources>

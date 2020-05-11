@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lieblingsfarbe">
+        <item>rot</item>
+        <item>cyan</item>
+        <item>gelb</item>
+        <item>gruen</item>
+        <item>blau</item>
+        <item>mangenta</item>
+        <item>keine</item>
+        <item>alle</item>
+    </string-array>
+
+    <string-array name="lieblingsfarbwerte">
+        <item>#ffff0000</item>
+        <item>#ff00ffff</item>
+        <item>#ffffff00</item>
+        <item>#ff00ff00</item>
+        <item>#ff0000ff</item>
+        <item>#ffff00ff</item>
+        <item>#ffffffff</item>
+        <item>#ff000000</item>
+    </string-array>
+
+    <string-array name="stimmung">
+        <item>:-D</item>
+        <item>:-)</item>
+        <item>:-|</item>
+        <item>:-(</item>
+        <item>:\'-(</item>
+    </string-array>
+</resources>

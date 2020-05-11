@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Primzahlen</string>
+
+    <string name="spinner_beschr">Primzahlen</string>
+    <string name="do_berechnen">berechnen</string>
+    <string name="txt_anzahl">Anzahl Primzahlen:</string>
+    <string name="txt_von">Primzahlen >= </string>
+    <string name="txt_warten">Bitte warten ...</string>
+    <string name="txt_lauft">Berechnung laeuft</string>
+</resources>

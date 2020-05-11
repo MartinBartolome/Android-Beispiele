@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sensoren</string>
+    <string name="intro">Read Sensor Data</string>
+    <string name="txt_hardware_sensor_x">x-Achse</string>
+    <string name="txt_hardware_sensor_y">y-Achse</string>
+    <string name="txt_hardware_sensor_z">z-Achse</string>
+    <string name="txt_hardware_sensor_value">value</string>
+    <string name="txt_hardware_sensors_na">not available</string>
+    <string name="txt_accelerometer">Accelerometer (m/s2)</string>
+    <string name="txt_gravitation">Gravitation (m/s2)</string>
+    <string name="txt_rotation">Rotation (rad/s)</string>
+    <string name="txt_magnetfield">Magnetfield (uT)</string>
+    <string name="txt_light">Light(lux)</string>
+    <string name="txt_proximity">proximity (cm)</string>
+    <string name="txt_temperature">Temperatur (C)</string>
+</resources>
