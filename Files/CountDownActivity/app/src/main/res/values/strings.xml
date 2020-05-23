@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountDownActivity</string>
+    <string name="count_down">Countdown</string>
+    <string name="stop">Stop</string>
+</resources>
